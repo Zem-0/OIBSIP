@@ -1,0 +1,9 @@
+[submodule "Unemployment_analysis"]
+	path = Unemployment_analysis
+	url = https://github.com/Zem-0/Unemployment_analysis.git
+[submodule "Car_price_prediction-_model"]
+	path = Car_price_prediction-_model
+	url = https://github.com/Zem-0/Car_price_prediction-_model.git
+[submodule "Spam_Mail-Detection-ML-model"]
+	path = Spam_Mail-Detection-ML-model
+	url = https://github.com/Zem-0/Spam_Mail-Detection-ML-model.git
